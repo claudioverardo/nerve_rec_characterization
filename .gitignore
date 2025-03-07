@@ -1,0 +1,5 @@
+*.o
+*.c
+*.dll
+neuron/__pycache__/
+neuron/fibers/__pycache__/
