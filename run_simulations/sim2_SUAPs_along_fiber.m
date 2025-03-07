@@ -40,7 +40,7 @@ for i=1:length(d_fibers)
     end
 end
 % unmyelinated fibers
-d_fibers = [1];
+d_fibers = [0.5 1 1.5];
 z_shift = [0; 0.5];
 for i=1:length(d_fibers)
     d_fiber = d_fibers(i);
@@ -67,7 +67,7 @@ for i=1:length(d_fibers)
     end
 end
 % unmyelinated fibers
-d_fibers = [1];
+d_fibers = [0.5 1 1.5];
 z_shift = [0; 0.5];
 for i=1:length(d_fibers)
     d_fiber = d_fibers(i);
@@ -94,7 +94,7 @@ for i=1:length(d_fibers)
     end
 end
 % unmyelinated fibers
-d_fibers = [1];
+d_fibers = [0.5 1 1.5];
 z_shift = [0; 0.5];
 for i=1:length(d_fibers)
     d_fiber = d_fibers(i);
