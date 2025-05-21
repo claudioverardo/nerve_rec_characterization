@@ -1,6 +1,6 @@
 # Characterization of peripheral nerve recordings
 
-This is the repository for the article *Biophysical characterization of the recording of unmyelinated and myelinated fiber activity with peripheral interfaces*. iScience (2025). DOI: to appear.
+This is the repository for the article *Biophysical characterization of the recording of unmyelinated and myelinated fiber activity with peripheral interfaces*. iScience (2025). DOI: [10.1016/j.isci.2025.112495](https://doi.org/10.1016/j.isci.2025.112495).
 
 **Authors**: Claudio Verardo, Simone Romeni, Silvestro Micera
 
